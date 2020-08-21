@@ -6,6 +6,7 @@ curl https://www.cyberciti.biz/faq/linux-unix-sleep-bash-scripting/
 speep 5
 curl https://stackoverflow.com/questions/42716677/how-to-update-javascript-excel-api-set-to-1-4/42725444#42725444
 touch /vagrant/malfile.$RANDOM
+touch /tmp/malfile.$RANDOM
 touch /vagrant/malfile
 chmod +x /vagrant/malfile
 sleep 2
